@@ -3,7 +3,7 @@
 <body>
 
 
-<img src="![wave](https://user-images.githubusercontent.com/88951197/233518135-e1e2d16a-530d-40ba-8033-f5028582e4e9.PNG)" min-width="100px" max-width="200px" width="150px" align="center" alt="Ingrid waving">
+<img src="https://user-images.githubusercontent.com/88951197/233518135-e1e2d16a-530d-40ba-8033-f5028582e4e9.PNG" min-width="100px" max-width="200px" width="150px" align="center" alt="Ingrid waving">
 
 <br>
 
@@ -17,14 +17,13 @@
 # Sobre mim
 
 <br>
+ <img src="https://user-images.githubusercontent.com/88951197/233518430-77f6cc66-46e8-495a-ba1c-2d5175866fe5.PNG"  min-width="50px" max-width="100px" width="60px" align="center" alt="Ingrid surfing on internet"> Explorando novas tecnologias e desenvolvendo soluções de software.
 
- <img src="../github\internet.PNG" min-width="30px" max-width="100px" width="40px" align="center" alt="Ingrid surfing on internet"> Explorando novas tecnologias e desenvolvendo soluções de software.
+<img src="https://user-images.githubusercontent.com/88951197/233518614-9c9ee9e2-7b34-4c40-8c2e-0ee4aaa9f5d8.PNG" min-width="50px" max-width="100px" width="60px" align="center" alt="Ingrid graduation"> Estudando **Sistemas para Internet** no <a href="https://www.sp.senac.br/">Senac SP</a>.
 
-<img src="../github\done.PNG" min-width="30px" max-width="100px" width="40px" align="center" alt="Ingrid graduation"> Estudando **Sistemas para Internet** no <a href="https://www.sp.senac.br/">Senac SP</a>.
+<img src="https://user-images.githubusercontent.com/88951197/233518783-95fd48eb-af4e-4f6b-bcb5-ffbbdf1e61bf.PNG" min-width="50px" max-width="100px" width="60px" align="center" alt="Ingrid graduation"> Trabalhando como **Analista de Sistemas de Automação** na <a href="https://www.galileosistemas.com.br/">Galileo Sistemas</a>.
 
-<img src="../github\notebook.PNG" min-width="30px" max-width="100px" width="40px" align="center" alt="Ingrid graduation"> Trabalhando como **Analista de Sistemas de Automação** na <a href="https://www.galileosistemas.com.br/">Galileo Sistemas</a>.
-
-<img src="../github\studying.PNG" min-width="50px" max-width="100px" width="40px" align="center" alt="Ingrid graduation"> Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, REACT, UI, UX**.
+<img src="https://user-images.githubusercontent.com/88951197/233518809-71ab0150-e9c2-412e-9902-43c75e9852a4.PNG" min-width="50px" max-width="100px" width="60px" align="center" alt="Ingrid graduation"> Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, REACT, UI, UX**.
 
 <br>
 
@@ -63,7 +62,7 @@
 <br/>
 
 
-# <img src="../github\earth.PNG" min-width="30px" max-width="100px" width="80px" align="center" alt="Ingrid surfing on internet"> Onde me encontrar
+# <img src="https://user-images.githubusercontent.com/88951197/233518819-aba79175-eb13-4ad0-bad8-c44c5a549c0f.png" min-width="30px" max-width="100px" width="80px" align="center" alt="Ingrid surfing on internet"> Onde me encontrar
 
 <div> 
   <a href="https://www.facebook.com/ingridcruzsantos/" alt="Facebook" target="_blank">
@@ -77,5 +76,6 @@
 
 <body>
 </html>
+
 
 
