@@ -42,20 +42,20 @@
 
 **Languages**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) -->
 
  <br/>
  
 **Development Tools**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=007ACC)
 
 
 <br/>
@@ -66,9 +66,9 @@
 
 <div> 
   <a href="https://www.facebook.com/ingridcruzsantos/" alt="Facebook" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&" target="_blank"/></a>
-  <a href="https://www.instagram.com/ingrid5santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" src="https://img.shields.io/badge/-ingridsantos-05122A?style=flat&logo=facebook" target="_blank"/></a>
+  <a href="https://www.instagram.com/ingrid5santos/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5santos-05122A?style=flat&logo=instagram" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5s-05122A?style=flat&logo=linkedin" alt="linkedin"/></a> 
 
 </div>
 
