@@ -69,6 +69,9 @@
   <img align="center" src="https://img.shields.io/badge/-ingridsantos-05122A?style=flat&logo=facebook" target="_blank"/></a>
   <a href="https://www.instagram.com/ingrid5santos/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5santos-05122A?style=flat&logo=instagram" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5s-05122A?style=flat&logo=linkedin" alt="linkedin"/></a> 
+  <a href="https://discord.com/channels/@me" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
+ 
+
 
 </div>
 
