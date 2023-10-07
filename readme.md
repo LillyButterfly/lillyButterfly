@@ -45,9 +45,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  	![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
   <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) -->
-
+  
  <br/>
  
 **Development Tools**
@@ -69,7 +70,7 @@
   <img align="center" src="https://img.shields.io/badge/-ingridsantos-05122A?style=flat&logo=facebook" target="_blank"/></a>
   <a href="https://www.instagram.com/ingrid5santos/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5santos-05122A?style=flat&logo=instagram" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5s-05122A?style=flat&logo=linkedin" alt="linkedin"/></a> 
-  <a href="https://discord.com/channels/@me" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
+  <a href="https://www.discord.com/in/lillylovelace/" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
  
 
 
