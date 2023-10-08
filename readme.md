@@ -71,10 +71,10 @@
 # <img src="https://user-images.githubusercontent.com/88951197/233518819-aba79175-eb13-4ad0-bad8-c44c5a549c0f.png" min-width="30px" max-width="100px" width="80px" align="center" alt="Ingrid surfing on internet">  Contact
 
 <div> 
+  <a href="https://discord.com/channels/@butterfly#82216" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
   <a href="https://www.facebook.com/ingridcruzsantos/" alt="Facebook" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ingridsantos-05122A?style=flat&logo=facebook" target="_blank"/></a>
-   <a href="https://discord.com/channels/@butterfly#82216" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
- <a href="mailto:ingridcruzsantos55@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=red" alt="linkedin"/></a> 
+  <a href="mailto:ingridcruzsantos55@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=red" alt="linkedin"/></a> 
   <a href="https://www.instagram.com/ingrid5santos/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5santos-05122A?style=flat&logo=instagram" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5s-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 </div>
