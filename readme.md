@@ -41,10 +41,10 @@
 
 **Languages**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-  	![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
+  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
   <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) -->
   
