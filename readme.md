@@ -70,7 +70,7 @@
 # <img src="https://user-images.githubusercontent.com/88951197/233518819-aba79175-eb13-4ad0-bad8-c44c5a549c0f.png" min-width="30px" max-width="100px" width="80px" align="center" alt="Ingrid surfing on internet">  Contact
 
 <div> 
-   <a href="https://www.dio.me/users/ingridcruzsantos55" target="_blank"> <img align="center" src="https://github.com/LillyButterfly/lillyButterfly/assets/88951197/dbe2bc4f-9176-4a1a-a667-4186be5cfee2" alt="dio" min-width="60px" max-width="100px" width="60px" align="center"/></a>
+<a href="https://www.dio.me/users/ingridcruzsantos55" target="_blank"> <img align="center" src="https://github.com/LillyButterfly/lillyButterfly/assets/88951197/dbe2bc4f-9176-4a1a-a667-4186be5cfee2" alt="dio" min-width="60px" max-width="100px" width="62px" align="center"/></a>
   <a href="https://discord.com/channels/@butterfly#82216" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
   <a href="https://www.facebook.com/ingridcruzsantos/" alt="Facebook" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ingridsantos-05122A?style=flat&logo=facebook" target="_blank"/></a>
