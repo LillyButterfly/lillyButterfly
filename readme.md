@@ -56,7 +56,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=007ACC)
   ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=007ACC)
-  [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc) 
+  [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc)
+  <br>
   ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=flat&logo=microsoft-office&labelColor=05122A)
   ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
