@@ -51,11 +51,13 @@
   
  <br/>
  
-**Development Tools**
+**Tools**
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=007ACC)
   ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=007ACC)
+  [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc) 
+  ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=flat&logo=microsoft-office&labelColor=05122A)
   ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
@@ -73,15 +75,7 @@
    <a href="https://discord.com/channels/@butterfly#82216" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" alt="discord"/></a> 
  <a href="mailto:ingridcruzsantos55@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=red" alt="linkedin"/></a> 
   <a href="https://www.instagram.com/ingrid5santos/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5santos-05122A?style=flat&logo=instagram" alt="instagram"/></a>
-  <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5s-05122A?style=flat&logo=linkedin" alt="linkedin"/></a> 
-
-
-
-  
-
- 
-
-
+  <a href="https://www.linkedin.com/in/ingrid5s/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ingrid5s-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 </div>
 
 
