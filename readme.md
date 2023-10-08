@@ -57,6 +57,7 @@
   ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=007ACC)
   [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc)
   <br>
+  <br/>
   ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=flat&logo=microsoft-office&labelColor=05122A)
   ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
