@@ -9,6 +9,7 @@
 
 <div>
 <p align="justify">
+ 
 ###  Hi there! Welcome to my GitHub profile. I'm Ingrid.
 </p>
 <br>
